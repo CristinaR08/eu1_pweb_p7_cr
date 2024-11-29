@@ -1,0 +1,34 @@
+.container {
+    border: solid #bb6d06;
+    border-radius: 20px;
+    width: 50%;
+    height: 500px;
+    margin-left: 25%;
+    padding: 10px;
+    background: #fcefde;
+}
+
+label{
+    color: #fcefde;
+}
+
+ button{
+   margin-left: 100px;
+   border: solid #bd781e;
+   border-radius: 5px;
+   background-color: #fcefde;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 15px;
+ }
+
+ .jsonI{
+    height: 150px;
+ }
+
+p:before {
+    content: attr(type);
+}
+
+label{
+    padding-left: 100px;
+}
